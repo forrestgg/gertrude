@@ -1,3 +1,9 @@
+In The Attic
+============
+
+Hello! `cloudera/gertrude` is no longer being developed. It will remain available here but will not be updated further.
+Now, back to the `README`...
+
 Gertrude: A Multilayer and Multivariate Experiment Framework for the JVM
 ------------------------------------------------------------------------
 
